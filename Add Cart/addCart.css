@@ -1,0 +1,93 @@
+h2
+{
+    font-size: 50px;
+    text-align: center;
+    text-decoration: solid;
+    font-family: sans-serif;
+    color:rebeccapurple;
+}
+.container
+{
+    flex-direction:initial;
+    display: inline-flex;
+padding: 10px;
+   position: relative;
+  margin:auto 50px;
+
+}
+.card1
+{
+border:double;
+   margin: 3px;
+    padding: 5px;
+    width: 150%;
+max-width: 350px;
+height: 100%;
+text-align: center;
+font-size: 30px;
+font-family:sans-serif;
+color: slategrey;
+}
+.card2
+{
+    position:relative;
+border:double;
+  padding: 5px;
+  margin: 3px;
+    width: 150%;
+max-width: 350px;
+height: 100%;
+text-align: center;
+font-size: 30px;
+font-family:sans-serif;
+color: steelblue;
+}
+.card3
+{
+border:double;
+   margin: 3px;
+    padding: 5px;
+    width: 150%;
+max-width: 350px;
+height: 100%;
+text-align: center;
+font-size: 30px;
+font-family:sans-serif;
+color:turquoise ;
+}
+
+img
+{
+  width: 150%;
+  max-width: 350px;
+  height: 250px;
+}
+.cart
+{
+    margin: 5px;
+    padding: 5px;
+    font-size:50px;
+    color: rosybrown;
+    font-family:cursive;
+    cursor: pointer;
+}
+.cart2
+{
+    position:absolute;
+    margin-top:-80px;
+   margin-left:200px;    /* right: -40px; */
+    color: rosybrown;
+    font-family:cursive;
+    cursor: pointer;
+    font-size:50px;
+}
+button
+{
+    margin: 5px;
+    padding: 5px;
+    font-size: 25px;
+    font-family:cursive;
+    color: teal;
+    background: thistle;
+    cursor: pointer;
+}
